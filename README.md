@@ -19,7 +19,8 @@ If you spot any issues with items being mislabeled or not being granted, notify 
 
 ## Credits
 The following projects were used for this tool:
-- [FromSoftware-rs](https://github.com/vswarte/fromsoftware-rs) - fork by fswap and nex3
+- [FromSoftware-rs](https://github.com/vswarte/fromsoftware-rs) - by vswarte for general bindings
+- [FromSoftware-rs Fork](https://github.com/fswap/fromsoftware-rs) - fork by fswap - for dedicated Sekiro bindings
 - [hudhook](https://github.com/veeenu/hudhook) - by veeenu
 - [ilhook](https://github.com/regomne/ilhook-rs) - by regomne
 - [serde](https://github.com/serde-rs/serde) - by dtolnay
