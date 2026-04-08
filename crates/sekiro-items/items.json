@@ -1,0 +1,867 @@
+[
+  {
+    "category": 4,
+    "id": 1000,
+    "in_game_name": "Spirit Emblem"
+  },
+  {
+    "category": 4,
+    "id": 1001,
+    "in_game_name": "Red Spirit Emblem"
+  },
+  {
+    "category": 4,
+    "id": 1200,
+    "in_game_name": "Skill Point"
+  },
+  {
+    "category": 4,
+    "id": 2100,
+    "in_game_name": "Bloodsmoke Ninjutsu"
+  },
+  {
+    "category": 4,
+    "id": 2110,
+    "in_game_name": "Puppeteer Ninjutsu"
+  },
+  {
+    "category": 4,
+    "id": 2120,
+    "in_game_name": "Bestowal Ninjutsu"
+  },
+  {
+    "category": 4,
+    "id": 2300,
+    "in_game_name": "Kusabimaru"
+  },
+  {
+    "category": 4,
+    "id": 2310,
+    "in_game_name": "Shinobi Prosthetic"
+  },
+  {
+    "category": 4,
+    "id": 2400,
+    "in_game_name": "Mortal Blade"
+  },
+  {
+    "category": 4,
+    "id": 2500,
+    "in_game_name": "Lotus of the Palace"
+  },
+  {
+    "category": 4,
+    "id": 2501,
+    "in_game_name": "Shelter Stone"
+  },
+  {
+    "category": 4,
+    "id": 2502,
+    "in_game_name": "Aromatic Branch"
+  },
+  {
+    "category": 4,
+    "id": 2503,
+    "in_game_name": "Aromatic Flower"
+  },
+  {
+    "category": 4,
+    "id": 2910,
+    "in_game_name": "Mechanical Barrel"
+  },
+  {
+    "category": 4,
+    "id": 2920,
+    "in_game_name": "Shinobi Esoteric Text"
+  },
+  {
+    "category": 4,
+    "id": 2921,
+    "in_game_name": "Prosthetic Esoteric Text"
+  },
+  {
+    "category": 4,
+    "id": 2922,
+    "in_game_name": "Ashina Esoteric Text"
+  },
+  {
+    "category": 4,
+    "id": 2923,
+    "in_game_name": "Senpou Esoteric Text"
+  },
+  {
+    "category": 4,
+    "id": 2924,
+    "in_game_name": "Mushin Esoteric Text"
+  },
+  {
+    "category": 4,
+    "id": 2930,
+    "in_game_name": "Recovery Charm"
+  },
+  {
+    "category": 4,
+    "id": 3000,
+    "in_game_name": "Healing Gourd"
+  },
+  {
+    "category": 4,
+    "id": 3020,
+    "in_game_name": "Pellet"
+  },
+  {
+    "category": 4,
+    "id": 3040,
+    "in_game_name": "Divine Grass"
+  },
+  {
+    "category": 4,
+    "id": 3050,
+    "in_game_name": "Red Lump (Jinzaemon)"
+  },
+  {
+    "category": 4,
+    "id": 3051,
+    "in_game_name": "Red Lump"
+  },
+  {
+    "category": 4,
+    "id": 3052,
+    "in_game_name": "Red Lump (Kotaro)"
+  },
+  {
+    "category": 4,
+    "id": 3053,
+    "in_game_name": "Academics' Red Lump"
+  },
+  {
+    "category": 4,
+    "id": 3060,
+    "in_game_name": "Sweet Rice Ball"
+  },
+  {
+    "category": 4,
+    "id": 3070,
+    "in_game_name": "Persimmon"
+  },
+  {
+    "category": 4,
+    "id": 3071,
+    "in_game_name": "Taro Persimmon"
+  },
+  {
+    "category": 4,
+    "id": 3080,
+    "in_game_name": "Rice"
+  },
+  {
+    "category": 4,
+    "id": 3081,
+    "in_game_name": "Fine Snow"
+  },
+  {
+    "category": 4,
+    "id": 3200,
+    "in_game_name": "Antidote Powder"
+  },
+  {
+    "category": 4,
+    "id": 3210,
+    "in_game_name": "Dousing Powder"
+  },
+  {
+    "category": 4,
+    "id": 3211,
+    "in_game_name": "Ministry Dousing Powder"
+  },
+  {
+    "category": 4,
+    "id": 3220,
+    "in_game_name": "Pacifying Agent"
+  },
+  {
+    "category": 4,
+    "id": 3230,
+    "in_game_name": "Eel Liver"
+  },
+  {
+    "category": 4,
+    "id": 3250,
+    "in_game_name": "Contact Medicine"
+  },
+  {
+    "category": 4,
+    "id": 3290,
+    "in_game_name": "Bite Down"
+  },
+  {
+    "category": 4,
+    "id": 3291,
+    "in_game_name": "Hidden Tooth"
+  },
+  {
+    "category": 4,
+    "id": 3300,
+    "in_game_name": "Green Mossy Gourd"
+  },
+  {
+    "category": 4,
+    "id": 3310,
+    "in_game_name": "Withered Red Gourd"
+  },
+  {
+    "category": 4,
+    "id": 3320,
+    "in_game_name": "Mottled Purple Gourd"
+  },
+  {
+    "category": 4,
+    "id": 3350,
+    "in_game_name": "Ako's Spiritfall"
+  },
+  {
+    "category": 4,
+    "id": 3370,
+    "in_game_name": "Ungo's Spiritfall"
+  },
+  {
+    "category": 4,
+    "id": 3380,
+    "in_game_name": "Gokan's Spiritfall"
+  },
+  {
+    "category": 4,
+    "id": 3390,
+    "in_game_name": "Gachiin's Spiritfall"
+  },
+  {
+    "category": 4,
+    "id": 3360,
+    "in_game_name": "Yashariku's Spiritfall"
+  },
+  {
+    "category": 4,
+    "id": 3400,
+    "in_game_name": "Ako's Sugar"
+  },
+  {
+    "category": 4,
+    "id": 3420,
+    "in_game_name": "Ungo's Sugar"
+  },
+  {
+    "category": 4,
+    "id": 3430,
+    "in_game_name": "Gokan's Sugar"
+  },
+  {
+    "category": 4,
+    "id": 3440,
+    "in_game_name": "Gachiin's Sugar"
+  },
+  {
+    "category": 4,
+    "id": 3410,
+    "in_game_name": "Yashariku's Sugar"
+  },
+  {
+    "category": 4,
+    "id": 3450,
+    "in_game_name": "Divine Confetti"
+  },
+  {
+    "category": 4,
+    "id": 3500,
+    "in_game_name": "Ceramic Shard"
+  },
+  {
+    "category": 4,
+    "id": 3510,
+    "in_game_name": "Fistful of Ash"
+  },
+  {
+    "category": 4,
+    "id": 3520,
+    "in_game_name": "Oil"
+  },
+  {
+    "category": 4,
+    "id": 3530,
+    "in_game_name": "Snap Seed"
+  },
+  {
+    "category": 4,
+    "id": 3580,
+    "in_game_name": "Five-color Rice"
+  },
+  {
+    "category": 4,
+    "id": 3600,
+    "in_game_name": "Mibu Balloon of Wealth"
+  },
+  {
+    "category": 4,
+    "id": 3610,
+    "in_game_name": "Mibu Balloon of Soul"
+  },
+  {
+    "category": 4,
+    "id": 3620,
+    "in_game_name": "Mibu Possession Balloon"
+  },
+  {
+    "category": 4,
+    "id": 3630,
+    "in_game_name": "Mibu Balloon of Spirit"
+  },
+  {
+    "category": 4,
+    "id": 3640,
+    "in_game_name": "Mibu Pilgrimage Balloon"
+  },
+  {
+    "category": 4,
+    "id": 3700,
+    "in_game_name": "Light Coin Purse"
+  },
+  {
+    "category": 4,
+    "id": 3704,
+    "in_game_name": "Heavy Coin Purse"
+  },
+  {
+    "category": 4,
+    "id": 3708,
+    "in_game_name": "Bulging Coin Purse"
+  },
+  {
+    "category": 4,
+    "id": 3720,
+    "in_game_name": "Bundled Jizo Statue"
+  },
+  {
+    "category": 4,
+    "id": 3721,
+    "in_game_name": "Jinza's Jizo Statue"
+  },
+  {
+    "category": 4,
+    "id": 3800,
+    "in_game_name": "Ceremonial Tanto"
+  },
+  {
+    "category": 4,
+    "id": 3900,
+    "in_game_name": "Nightjar Monocular"
+  },
+  {
+    "category": 4,
+    "id": 3990,
+    "in_game_name": "Illusive Hall Bell"
+  },
+  {
+    "category": 4,
+    "id": 4000,
+    "in_game_name": "Prayer Bead"
+  },
+  {
+    "category": 4,
+    "id": 4400,
+    "in_game_name": "Gourd Seed"
+  },
+  {
+    "category": 4,
+    "id": 5200,
+    "in_game_name": "Memory: Gyoubu Oniwa"
+  },
+  {
+    "category": 4,
+    "id": 5201,
+    "in_game_name": "Memory: Lady Butterfly"
+  },
+  {
+    "category": 4,
+    "id": 5202,
+    "in_game_name": "Memory: Genichiro"
+  },
+  {
+    "category": 4,
+    "id": 5203,
+    "in_game_name": "Memory: Screen Monkeys"
+  },
+  {
+    "category": 4,
+    "id": 5204,
+    "in_game_name": "Memory: Guardian Ape"
+  },
+  {
+    "category": 4,
+    "id": 5205,
+    "in_game_name": "Memory: Corrupted Monk"
+  },
+  {
+    "category": 4,
+    "id": 5206,
+    "in_game_name": "Memory: Great Shinobi"
+  },
+  {
+    "category": 4,
+    "id": 5207,
+    "in_game_name": "Memory: Foster Father"
+  },
+  {
+    "category": 4,
+    "id": 5208,
+    "in_game_name": "Memory: True Monk"
+  },
+  {
+    "category": 4,
+    "id": 5209,
+    "in_game_name": "Memory: Divine Dragon"
+  },
+  {
+    "category": 4,
+    "id": 5210,
+    "in_game_name": "Memory: Hatred Demon"
+  },
+  {
+    "category": 4,
+    "id": 5211,
+    "in_game_name": "Memory: Saint Isshin"
+  },
+  {
+    "category": 4,
+    "id": 5212,
+    "in_game_name": "Memory: Isshin Ashina"
+  },
+  {
+    "category": 4,
+    "id": 5213,
+    "in_game_name": "Memory: Headless Ape"
+  },
+  {
+    "category": 4,
+    "id": 5220,
+    "in_game_name": "Memory: Inner Genichiro"
+  },
+  {
+    "category": 4,
+    "id": 5221,
+    "in_game_name": "Memory: Inner Father"
+  },
+  {
+    "category": 4,
+    "id": 5222,
+    "in_game_name": "Memory: Inner Isshin"
+  },
+  {
+    "category": 4,
+    "id": 5500,
+    "in_game_name": "Mask Fragment: Right"
+  },
+  {
+    "category": 4,
+    "id": 5501,
+    "in_game_name": "Mask Fragment: Left"
+  },
+  {
+    "category": 4,
+    "id": 5502,
+    "in_game_name": "Mask Fragment: Dragon"
+  },
+  {
+    "category": 4,
+    "id": 5510,
+    "in_game_name": "Dancing Dragon Mask"
+  },
+  {
+    "category": 4,
+    "id": 5600,
+    "in_game_name": "Dragon's Blood Droplet"
+  },
+  {
+    "category": 4,
+    "id": 6000,
+    "in_game_name": "Scrap Iron"
+  },
+  {
+    "category": 4,
+    "id": 6010,
+    "in_game_name": "Scrap Magnetite"
+  },
+  {
+    "category": 4,
+    "id": 6020,
+    "in_game_name": "Adamantite Scrap"
+  },
+  {
+    "category": 4,
+    "id": 6100,
+    "in_game_name": "Black Gunpowder"
+  },
+  {
+    "category": 4,
+    "id": 6200,
+    "in_game_name": "Yellow Gunpowder"
+  },
+  {
+    "category": 4,
+    "id": 6210,
+    "in_game_name": "Fulminated Mercury"
+  },
+  {
+    "category": 4,
+    "id": 6300,
+    "in_game_name": "Lump of Fat Wax"
+  },
+  {
+    "category": 4,
+    "id": 6310,
+    "in_game_name": "Lump of Grave Wax"
+  },
+  {
+    "category": 4,
+    "id": 6400,
+    "in_game_name": "Lapis Lazuli"
+  },
+  {
+    "category": 4,
+    "id": 9000,
+    "in_game_name": "Divine Dragon's Tears"
+  },
+  {
+    "category": 4,
+    "id": 9009,
+    "in_game_name": "Sakura Droplet"
+  },
+  {
+    "category": 4,
+    "id": 9010,
+    "in_game_name": "Young Lord's Bell Charm"
+  },
+  {
+    "category": 4,
+    "id": 9011,
+    "in_game_name": "Father's Bell Charm"
+  },
+  {
+    "category": 4,
+    "id": 9052,
+    "in_game_name": "Red Carp Eyes"
+  },
+  {
+    "category": 4,
+    "id": 9060,
+    "in_game_name": "Dragon's Tally Board"
+  },
+  {
+    "category": 4,
+    "id": 9061,
+    "in_game_name": "Promissory Note"
+  },
+  {
+    "category": 4,
+    "id": 9070,
+    "in_game_name": "Water of the Palace"
+  },
+  {
+    "category": 4,
+    "id": 9071,
+    "in_game_name": "Great White Whisker"
+  },
+  {
+    "category": 4,
+    "id": 9080,
+    "in_game_name": "Red and White Pinwheel"
+  },
+  {
+    "category": 4,
+    "id": 9090,
+    "in_game_name": "Rice for Kuro"
+  },
+  {
+    "category": 4,
+    "id": 9091,
+    "in_game_name": "Frozen Tears"
+  },
+  {
+    "category": 4,
+    "id": 9100,
+    "in_game_name": "Ashina Sake"
+  },
+  {
+    "category": 4,
+    "id": 9101,
+    "in_game_name": "Unrefined Sake"
+  },
+  {
+    "category": 4,
+    "id": 9102,
+    "in_game_name": "Monkey Booze"
+  },
+  {
+    "category": 4,
+    "id": 9103,
+    "in_game_name": "Dragonspring Sake"
+  },
+  {
+    "category": 4,
+    "id": 9180,
+    "in_game_name": "Precious Bait"
+  },
+  {
+    "category": 4,
+    "id": 9181,
+    "in_game_name": "Truly Precious Bait (Harunaga)"
+  },
+  {
+    "category": 4,
+    "id": 9182,
+    "in_game_name": "Truly Precious Bait (Koremori)"
+  },
+  {
+    "category": 4,
+    "id": 9192,
+    "in_game_name": "Fresh Serpent Viscera"
+  },
+  {
+    "category": 4,
+    "id": 9193,
+    "in_game_name": "Dried Serpent Viscera"
+  },
+  {
+    "category": 4,
+    "id": 9209,
+    "in_game_name": "Holy Chapter: Dragon's Return"
+  },
+  {
+    "category": 4,
+    "id": 9228,
+    "in_game_name": "Holy Chapter: Infested"
+  },
+  {
+    "category": 4,
+    "id": 9402,
+    "in_game_name": "Gatehouse Key"
+  },
+  {
+    "category": 4,
+    "id": 9403,
+    "in_game_name": "Hidden Temple Key"
+  },
+  {
+    "category": 4,
+    "id": 9404,
+    "in_game_name": "Secret Passage Key"
+  },
+  {
+    "category": 4,
+    "id": 9405,
+    "in_game_name": "Gun Fort Shrine Key"
+  },
+  {
+    "category": 4,
+    "id": 9560,
+    "in_game_name": "Dragonrot Blood Sample"
+  },
+  {
+    "category": 4,
+    "id": 9700,
+    "in_game_name": "Shuriken Wheel"
+  },
+  {
+    "category": 4,
+    "id": 9701,
+    "in_game_name": "Phantom Kunai"
+  },
+  {
+    "category": 4,
+    "id": 9710,
+    "in_game_name": "Robert's Firecrackers"
+  },
+  {
+    "category": 4,
+    "id": 9720,
+    "in_game_name": "Flame Barrel"
+  },
+  {
+    "category": 4,
+    "id": 9721,
+    "in_game_name": "Pine Resin Ember"
+  },
+  {
+    "category": 4,
+    "id": 9730,
+    "in_game_name": "Shinobi Axe of the Monkey"
+  },
+  {
+    "category": 4,
+    "id": 9740,
+    "in_game_name": "Mist Raven's Feathers"
+  },
+  {
+    "category": 4,
+    "id": 9750,
+    "in_game_name": "Sabimaru"
+  },
+  {
+    "category": 4,
+    "id": 9760,
+    "in_game_name": "Iron Fortress"
+  },
+  {
+    "category": 4,
+    "id": 9770,
+    "in_game_name": "Large Fan"
+  },
+  {
+    "category": 4,
+    "id": 9780,
+    "in_game_name": "Gyoubu's Broken Horn"
+  },
+  {
+    "category": 4,
+    "id": 9790,
+    "in_game_name": "Slender Finger"
+  },
+  {
+    "category": 4,
+    "id": 9791,
+    "in_game_name": "Malcontent"
+  },
+  {
+    "category": 4,
+    "id": 10000,
+    "in_game_name": "Treasure Carp Scale"
+  },
+  {
+    "category": 4,
+    "id": 2420,
+    "in_game_name": "Mibu Breathing Technique"
+  },
+  {
+    "category": 4,
+    "id": 2450,
+    "in_game_name": "Anti-air Deathblow Text"
+  },
+  {
+    "category": 4,
+    "id": 2460,
+    "in_game_name": "Dragon Flash"
+  },
+  {
+    "category": 4,
+    "id": 2461,
+    "in_game_name": "Floating Passage Text"
+  },
+  {
+    "category": 4,
+    "id": 2462,
+    "in_game_name": "One Mind"
+  },
+  {
+    "category": 4,
+    "id": 2470,
+    "in_game_name": "Shinobi Medicine Rank 1"
+  },
+  {
+    "category": 4,
+    "id": 2471,
+    "in_game_name": "Shinobi Medicine Rank 2"
+  },
+  {
+    "category": 4,
+    "id": 2472,
+    "in_game_name": "Shinobi Medicine Rank 3"
+  },
+  {
+    "category": 4,
+    "id": 2475,
+    "in_game_name": "A Beast's Karma"
+  },
+  {
+    "category": 4,
+    "id": 2480,
+    "in_game_name": "Breath of Life: Shadow"
+  },
+  {
+    "category": 4,
+    "id": 2481,
+    "in_game_name": "Breath of Nature: Shadow"
+  },
+  {
+    "category": 4,
+    "id": 2490,
+    "in_game_name": "Sakura Dance"
+  },
+  {
+    "category": 0,
+    "ids": [5100, 210000],
+    "in_game_name": "Whirlwind Slash"
+  },
+  {
+    "category": 0,
+    "ids": [5200, 310000],
+    "in_game_name": "Nightjar Slash"
+  },
+  {
+    "category": 0,
+    "ids": [5300, 410000],
+    "in_game_name": "Ichimonji"
+  },
+  {
+    "category": 0,
+    "ids": [5500, 411000],
+    "in_game_name": "Ashina Cross"
+  },
+  {
+    "category": 0,
+    "ids": [5800, 511000],
+    "in_game_name": "Senpou Leaping Kicks"
+  },
+  {
+    "category": 0,
+    "ids": [5900, 510000],
+    "in_game_name": "Praying Strikes"
+  },
+  {
+    "category": 0,
+    "ids": [6000, 211000],
+    "in_game_name": "Shadowrush"
+  },
+  {
+    "category": 0,
+    "ids": [7000, 310100],
+    "in_game_name": "Nightjar Slash Reversal"
+  },
+  {
+    "category": 0,
+    "ids": [7100, 410100],
+    "in_game_name": "Ichimonji: Double"
+  },
+  {
+    "category": 0,
+    "ids": [7200, 611100],
+    "in_game_name": "Spiral Cloud Passage"
+  },
+  {
+    "category": 0,
+    "ids": [7300, 612100],
+    "in_game_name": "Empowered Mortal Draw"
+  },
+  {
+    "category": 0,
+    "ids": [7400, 511100],
+    "in_game_name": "High Monk"
+  },
+  {
+    "category": 0,
+    "ids": [7500, 510100],
+    "in_game_name": "Praying Strikes - Exorcism"
+  },
+  {
+    "category": 0,
+    "ids": [7600, 610100],
+    "in_game_name": "Shadowfall"
+  }
+]

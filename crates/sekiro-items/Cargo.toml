@@ -1,0 +1,19 @@
+[package]
+name = "sekiro-items"
+version = "1.0.0"
+edition.workspace = true
+readme = false
+
+[lib]
+crate-type = ["cdylib"]
+name = "sekiro_items"
+
+[dependencies]
+anyhow.workspace = true
+sekiro = { git = "https://github.com/nex3/fromsoftware-rs", branch = "merged" }
+fromsoftware-shared.workspace = true
+ilhook.workspace = true
+windows.workspace = true
+hudhook = "0.8.1"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
