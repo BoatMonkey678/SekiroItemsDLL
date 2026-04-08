@@ -20,3 +20,8 @@ The following projects were used for this tool:
 - ([ilhook](https://github.com/regomne/ilhook-rs)) - by regomne
 - ([serde](https://github.com/serde-rs/serde)) - by dtolnay
 - ([anyhow](https://github.com/dtolnay/anyhow)) - by dtolnay
+
+## Buidling
+I used Rust version: `rustc 1.96.0-nightly` to build this project. With this run:
+`cargo build -p sekiro-items --release`
+to build the `.dll` file.
