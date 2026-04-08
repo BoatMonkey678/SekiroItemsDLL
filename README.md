@@ -15,7 +15,7 @@ There is currently an issue where two mouses appear when in-game. One of them wo
 
 ## Credits
 The following projects were used for this tool:
-- [FromSoftware-rs](https://github.com/vswarte/fromsoftware-rs) - fork by fswap and nex3.
+- [FromSoftware-rs](https://github.com/vswarte/fromsoftware-rs) - fork by fswap and nex3
 - [hudhook](https://github.com/veeenu/hudhook) - by veeenu
 - [ilhook](https://github.com/regomne/ilhook-rs) - by regomne
 - [serde](https://github.com/serde-rs/serde) - by dtolnay
