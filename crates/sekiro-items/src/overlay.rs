@@ -238,15 +238,10 @@ impl ItemGrantOverlay {
                     }
 
                     if let Some(item) = items.get(self.selected_item_index) {
-                        let item_ids = item.item_ids();
                         ui.text(format!(
                             "Selected: {}{}",
                             item.in_game_name,
-                            if item_ids.len() > 1 {
-                                format!(" ({} item ids)", item_ids.len())
-                            } else {
                                 String::new()
-                            }
                         ));
                     }
                 } else if let Some(err) = &catalog_error {
@@ -263,9 +258,7 @@ impl ItemGrantOverlay {
                         self.status = match requests.as_ref() {
                             Ok(requests) => match hotkey::queue_grant_requests(requests) {
                                 Ok(()) => format!(
-                                    "Queued {} item grant{} for the next game frame.",
-                                    requests.len(),
-                                    if requests.len() == 1 { "" } else { "s" }
+                                    "Queued item grant",
                                 ),
                                 Err(err) => format!("Could not queue grant: {err}"),
                             },
