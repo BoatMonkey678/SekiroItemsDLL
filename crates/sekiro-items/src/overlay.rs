@@ -9,7 +9,7 @@ use serde::Deserialize;
 use windows::Win32::Foundation::HINSTANCE;
 use windows::Win32::UI::Input::KeyboardAndMouse::{GetAsyncKeyState, VK_INSERT};
 
-use crate::hotkey::{self, GrantRequest};
+use crate::item_grant::{self, GrantRequest};
 
 static ITEM_CATALOG: LazyLock<std::result::Result<Vec<ItemCatalogEntry>, String>> =
     LazyLock::new(load_item_catalog);
@@ -49,7 +49,7 @@ impl ItemCatalogEntry {
             .collect::<Vec<_>>();
 
         for request in &requests {
-            hotkey::validate_grant_request(*request)?;
+            item_grant::validate_grant_request(*request)?;
         }
 
         Ok(requests)
@@ -256,7 +256,7 @@ impl ItemGrantOverlay {
                     let _enabled = ui.begin_enabled(requests.is_ok());
                     if ui.button("Grant Item") {
                         self.status = match requests.as_ref() {
-                            Ok(requests) => match hotkey::queue_grant_requests(requests) {
+                            Ok(requests) => match item_grant::queue_grant_requests(requests) {
                                 Ok(()) => format!(
                                     "Queued item grant",
                                 ),

@@ -1,7 +1,7 @@
 use windows::Win32::{Foundation::HINSTANCE, System::SystemServices::DLL_PROCESS_ATTACH};
 
 mod hook;
-mod hotkey;
+mod item_grant;
 mod overlay;
 
 /// The entrypoint called when the DLL is first loaded.
@@ -17,11 +17,11 @@ extern "C" fn DllMain(hmodule: HINSTANCE, call_reason: u32) -> bool {
     unsafe {
         hook::install();
     }
-
+    
     let _ = overlay::start(hmodule);
 
     // This runs once per game frame using Sekiro's task manager.
-    let _ = hotkey::start();
+    let _ = item_grant::start();
 
     true
 }
