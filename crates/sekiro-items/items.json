@@ -806,8 +806,18 @@
   },
   {
     "category": 0,
+    "ids": [7000, 310100],
+    "in_game_name": "Nightjar Slash Reversal"
+  },
+  {
+    "category": 0,
     "ids": [5300, 410000],
     "in_game_name": "Ichimonji"
+  },
+  {
+    "category": 0,
+    "ids": [7100, 410100],
+    "in_game_name": "Ichimonji: Double"
   },
   {
     "category": 0,
@@ -816,13 +826,23 @@
   },
   {
     "category": 0,
+    "ids": [5900, 510000],
+    "in_game_name": "Praying Strikes"
+  },
+  {
+    "category": 0,
+    "ids": [7500, 510100],
+    "in_game_name": "Praying Strikes - Exorcism"
+  },
+  {
+    "category": 0,
     "ids": [5800, 511000],
     "in_game_name": "Senpou Leaping Kicks"
   },
   {
     "category": 0,
-    "ids": [5900, 510000],
-    "in_game_name": "Praying Strikes"
+    "ids": [7400, 511100],
+    "in_game_name": "High Monk"
   },
   {
     "category": 0,
@@ -831,13 +851,8 @@
   },
   {
     "category": 0,
-    "ids": [7000, 310100],
-    "in_game_name": "Nightjar Slash Reversal"
-  },
-  {
-    "category": 0,
-    "ids": [7100, 410100],
-    "in_game_name": "Ichimonji: Double"
+    "ids": [7600, 610100],
+    "in_game_name": "Shadowfall"
   },
   {
     "category": 0,
@@ -848,21 +863,6 @@
     "category": 0,
     "ids": [7300, 612100],
     "in_game_name": "Empowered Mortal Draw"
-  },
-  {
-    "category": 0,
-    "ids": [7400, 511100],
-    "in_game_name": "High Monk"
-  },
-  {
-    "category": 0,
-    "ids": [7500, 510100],
-    "in_game_name": "Praying Strikes - Exorcism"
-  },
-  {
-    "category": 0,
-    "ids": [7600, 610100],
-    "in_game_name": "Shadowfall"
   },
   {
     "category": 4,
