@@ -13,6 +13,8 @@ Most equippable/consumable items are there, all Combat Arts and Memories of Anot
 ## Issues
 There is currently an issue where two mouses appear when in-game. One of them works in-game and the other works on the overlay. These mouses unfortunately have desynced positions.
 
+Another issue is with outfits. If you grant them early (like when arriving at Dilapidated Temple) and switch to them, then the outfit: Original Memory: Wolf breaks. This is a quirk of how the outfits are treated by the game (they are basically treated like Dark Souls armor pieces). To fix this, grant yourself the item called "Original Memory: Wolf".
+
 ## Credits
 The following projects were used for this tool:
 - [FromSoftware-rs](https://github.com/vswarte/fromsoftware-rs) - fork by fswap and nex3
