@@ -33,4 +33,4 @@ The following projects were used while developing this tool:
 - [anyhow](https://github.com/dtolnay/anyhow) - by dtolnay
 
 ## Buidling
-Have Rust installed to build this project. Then run: `cargo build  --release` to build the `.dll` files.
+Have Rust installed to build this project. Then run: `cargo build --release` to build the `.dll` files.
