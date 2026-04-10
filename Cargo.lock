@@ -492,6 +492,18 @@ dependencies = [
 ]
 
 [[package]]
+name = "sekiro-items-dev"
+version = "1.0.0"
+dependencies = [
+ "anyhow",
+ "fromsoftware-shared",
+ "hudhook",
+ "ilhook",
+ "sekiro",
+ "windows",
+]
+
+[[package]]
 name = "serde"
 version = "1.0.228"
 source = "registry+https://github.com/rust-lang/crates.io-index"
